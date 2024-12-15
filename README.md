@@ -7,7 +7,7 @@ I'm a former teacher that is now studying **Computer Science** at Aarhus Univers
 ### 👨‍🏫 About Me
 
 - **Ex-teacher & Editor:** I spent 3 years teaching and another 4 working as an editor at a digital publisher.
-- **Current Student of Computer Science:** Right now, I’m diving deep into CS fundamentals, especially data structures and algorithms. While I enjoy the theory, I’m passionate about writing code that’s clean, simple, and easy to understand.
+- **Current Student of Computer Science:** Right now, I’m diving deep into CS fundamentals.
 - **Languages I Code In:**
   - **Python:** My favorite language! I believe the best code is readable and maintainable.
   - **Java:** I’ve been learning Java as part of my coursework and I really like working in a strongly typed language.
