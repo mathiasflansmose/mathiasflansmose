@@ -4,6 +4,7 @@ I'm a Computer Science student at Aarhus University with a background in teachin
 
 ---
 
+
 ### 👨‍🏫 About Me
 
 - **Educator & Editor**: Spent 3 years teaching and 4 years as an editor at a digital publisher.
@@ -13,6 +14,7 @@ I'm a Computer Science student at Aarhus University with a background in teachin
 - **Team Player**: Enjoy both independent work and collaborative environments, adapting easily to different communication styles.
 
 
+---
 
 ### 💻 Tech Stack
 - **Python**: My go-to language for quick prototyping and exploring new ideas.
