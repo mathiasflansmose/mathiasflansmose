@@ -1,32 +1,26 @@
-# 👋 Hello! Welcome to My GitHub Profile
+# 👋 Hello, I'm Mathias Flansmose!
 
-I'm a former teacher that is now studying **Computer Science** at Aarhus University. With a background in education and digital publishing, I bring a unique perspective to coding, balancing the curiosity of a student with the discipline and communication skills of a teacher.
+I'm a Computer Science student at Aarhus University with a background in teaching and digital publishing. With a background in education and digital publishing, I bring a unique perspective to coding, balancing the curiosity of a student with the discipline and communication skills of a teacher.
 
 ---
 
 ### 👨‍🏫 About Me
 
-- **Ex-teacher & Editor:** I spent 3 years teaching and another 4 working as an editor at a digital publisher.
-- **Current Student of Computer Science:** Right now, I’m diving deep into CS fundamentals.
-- **Languages I Code In:**
-  - **Python:** My favorite language! I believe the best code is readable and maintainable.
-  - **Java:** I’ve been learning Java as part of my coursework and I really like working in a strongly typed language.
-  - **C:** I’ve written search algorithms and worked on smaller projects in C as part of my learning journey.
+- **Educator & Editor**: Spent 3 years teaching and 4 years as an editor at a digital publisher.
+- **Current CS Student**: Diving deep into data structures, algorithms, and the foundations of computer science.
+- **Effective Communicator**: Draw on my teaching experience to explain complex ideas clearly and concisely.
+- **Analytical & Detail-Oriented**: Methodical approach to problem-solving, with a knack for spotting details others might miss.
+- **Team Player**: Enjoy both independent work and collaborative environments, adapting easily to different communication styles.
 
----
-### 🌱 I’m currently learning
 
-- **Algorithms and Data Structures** 
-- **Introduction to programming**
-- **Introduction to Mathematics and Optimisation**
 
----
+### 💻 Tech Stack
+- **Python**: My go-to language for quick prototyping and exploring new ideas.
+- **Java**: Learned it through my coursework. I love the strong typing and OOP principles.
+- **C:**: Familiar with lower-level programming and memory management through smaller projects.
+- **Scala**: Gaining experience with functional programming paradigms as part of my curriculum.
+- **HTML/CSS**: Basic knowledge.
 
-### 💻 My Approach to Coding
-
-- **Readable Code:** I strive to write code that speaks for itself. I believe that simple, well-structured code is often the best and is easier to debug, optimize, and share.
-- **Problem-Solving:** I find joy in solving challenging coding problems, especially those that make me think critically. I may not be chasing every millisecond, but I understand the importance of efficient algorithms.
-- **Learning Data Structures:** As I progress in my studies, I'm building my understanding of data structures and how they can help solve real-world problems effectively.
 
 ---
 
